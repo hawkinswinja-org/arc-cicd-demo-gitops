@@ -5,8 +5,8 @@ namespace: dev-gh
 
 images:
   - name: minicommerce/.azurecr.io//azure-vote-front
-    newTag: 35f0def8d37498a69f78bd553dcf7f689a536ef2
+    newTag: a6a73eb69a3589c74e6c47af5bebcc190cd6f30f
   - name: minicommerce/.azurecr.io//azure-vote-back
-    newTag: 35f0def8d37498a69f78bd553dcf7f689a536ef2
+    newTag: a6a73eb69a3589c74e6c47af5bebcc190cd6f30f
 resources:
   - manifests.yaml
